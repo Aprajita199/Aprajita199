@@ -78,6 +78,10 @@
 </p>
 
 ---
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aprajita1909?ext=contest)](https://leetcode.com/Aprajita1909)
+
 
 ## 🌐 Let's Connect
 
