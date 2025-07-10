@@ -27,7 +27,7 @@
 - 🔐 Firebase Auth + Firestore for storing user favourites  
 - 🖥️ Responsive UI with DOM manipulation and error handling  
 - 📦 Deployed on Firebase Hosting  
-- [🔗 Code](https://github.com/Aprajita199/smart-recipe-explorer)
+- [🔗 Code][(https://github.com/Aprajita199/Recipe-search-website)]
 
 ---
 
